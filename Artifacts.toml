@@ -1,0 +1,113 @@
+[[LASzip]]
+arch = "x86_64"
+git-tree-sha1 = "325fa71e927df1251ecf8f9b318e415455b0c806"
+os = "freebsd"
+
+    [[LASzip.download]]
+    sha256 = "50daf6eb67d8178e5314d647e384c2db41783a7087bd618caba7fb01dc9fdfc9"
+    url = "https://github.com/JuliaBinaryWrappers/LASzip_jll.jl/releases/download/LASzip-v3.4.3+0/LASzip.v3.4.3.x86_64-unknown-freebsd11.1.tar.gz"
+[[LASzip]]
+arch = "x86_64"
+git-tree-sha1 = "c6522480be0991f0131343e392c3b419e1cc3707"
+os = "windows"
+
+    [[LASzip.download]]
+    sha256 = "2d432d805f46c4b0c2ce4a5ba4e5acb9d10647ef6fb58022bbf8ad5773cbf1cf"
+    url = "https://github.com/JuliaBinaryWrappers/LASzip_jll.jl/releases/download/LASzip-v3.4.3+0/LASzip.v3.4.3.x86_64-w64-mingw32.tar.gz"
+[[LASzip]]
+arch = "x86_64"
+git-tree-sha1 = "a4695e44f81be39537fe4bab4503ace255a5f2a0"
+libc = "glibc"
+os = "linux"
+
+    [[LASzip.download]]
+    sha256 = "19b8a869437bbbdde72a0b7a861ca1661944c0d1ca6eff09cae086839ab5678f"
+    url = "https://github.com/JuliaBinaryWrappers/LASzip_jll.jl/releases/download/LASzip-v3.4.3+0/LASzip.v3.4.3.x86_64-linux-gnu.tar.gz"
+[[LASzip]]
+arch = "armv7l"
+git-tree-sha1 = "940a3d7b86fa97cef7af70944e0b0700cae4b1a1"
+libc = "musl"
+os = "linux"
+
+    [[LASzip.download]]
+    sha256 = "5c1582563d646d35760cff518affb08ea5f072ce2a9552c3ba4cb41ec6432160"
+    url = "https://github.com/JuliaBinaryWrappers/LASzip_jll.jl/releases/download/LASzip-v3.4.3+0/LASzip.v3.4.3.armv7l-linux-musleabihf.tar.gz"
+[[LASzip]]
+arch = "i686"
+git-tree-sha1 = "4e28432c8f6c6336d73cb7c30320beeb0a72a4ad"
+libc = "glibc"
+os = "linux"
+
+    [[LASzip.download]]
+    sha256 = "18b1abab6a952456e38c486ba41048a950db9be9f12ed387aeda5bf5cf91c25a"
+    url = "https://github.com/JuliaBinaryWrappers/LASzip_jll.jl/releases/download/LASzip-v3.4.3+0/LASzip.v3.4.3.i686-linux-gnu.tar.gz"
+[[LASzip]]
+arch = "aarch64"
+git-tree-sha1 = "fbe34bd234416956e548f92b0710bafe167612c8"
+libc = "musl"
+os = "linux"
+
+    [[LASzip.download]]
+    sha256 = "4f743e9be7d030398289e3536df69a55f03fa38b7ee2f83cff044c6c7f38dc81"
+    url = "https://github.com/JuliaBinaryWrappers/LASzip_jll.jl/releases/download/LASzip-v3.4.3+0/LASzip.v3.4.3.aarch64-linux-musl.tar.gz"
+[[LASzip]]
+arch = "i686"
+git-tree-sha1 = "c489d3837f7e75ff6abf9803cce8dfb3885966f0"
+os = "windows"
+
+    [[LASzip.download]]
+    sha256 = "b6904cd78ddbf35715ffd012a1a9bc4c571d90efca8d13117a846fe23cb635f9"
+    url = "https://github.com/JuliaBinaryWrappers/LASzip_jll.jl/releases/download/LASzip-v3.4.3+0/LASzip.v3.4.3.i686-w64-mingw32.tar.gz"
+[[LASzip]]
+arch = "aarch64"
+git-tree-sha1 = "4b97ccd89911482835c851b04453ce16b28c3a15"
+libc = "glibc"
+os = "linux"
+
+    [[LASzip.download]]
+    sha256 = "6e7fe17533ecc6cc8c5a7fcd182913715da9ff73b76531406795a906dec864e6"
+    url = "https://github.com/JuliaBinaryWrappers/LASzip_jll.jl/releases/download/LASzip-v3.4.3+0/LASzip.v3.4.3.aarch64-linux-gnu.tar.gz"
+[[LASzip]]
+arch = "i686"
+git-tree-sha1 = "7e3a310cb67b3b40fa799d1f8e354dc3efe0dd41"
+libc = "musl"
+os = "linux"
+
+    [[LASzip.download]]
+    sha256 = "2f4cfd806f54ca5d3086ba5b959fb8c61ca2b3e385bdb7b67903cdeb9c2de097"
+    url = "https://github.com/JuliaBinaryWrappers/LASzip_jll.jl/releases/download/LASzip-v3.4.3+0/LASzip.v3.4.3.i686-linux-musl.tar.gz"
+[[LASzip]]
+arch = "x86_64"
+git-tree-sha1 = "0e3494ced44e4570e11f9a936085bb2465521ee3"
+libc = "musl"
+os = "linux"
+
+    [[LASzip.download]]
+    sha256 = "fa36a477c6e6b86c07c30ac6b2efa9e45acdfc33104a636657a684228e9b840c"
+    url = "https://github.com/JuliaBinaryWrappers/LASzip_jll.jl/releases/download/LASzip-v3.4.3+0/LASzip.v3.4.3.x86_64-linux-musl.tar.gz"
+[[LASzip]]
+arch = "powerpc64le"
+git-tree-sha1 = "ff3d0a36dae09295bc22ab4d3cd68bcd54acf932"
+libc = "glibc"
+os = "linux"
+
+    [[LASzip.download]]
+    sha256 = "e3bfc18d9390c96251ec034be6b4b369cfdeab1acf1da569c5212ff91789256e"
+    url = "https://github.com/JuliaBinaryWrappers/LASzip_jll.jl/releases/download/LASzip-v3.4.3+0/LASzip.v3.4.3.powerpc64le-linux-gnu.tar.gz"
+[[LASzip]]
+arch = "x86_64"
+git-tree-sha1 = "6294f97e8f541f156b17df249e6b5e2f029b5aea"
+os = "macos"
+
+    [[LASzip.download]]
+    sha256 = "94aca7ef9772439467a5e6dd5602d63c570c22db5dd3332e33f4ce335be09522"
+    url = "https://github.com/JuliaBinaryWrappers/LASzip_jll.jl/releases/download/LASzip-v3.4.3+0/LASzip.v3.4.3.x86_64-apple-darwin14.tar.gz"
+[[LASzip]]
+arch = "armv7l"
+git-tree-sha1 = "decb7291189368af9d8ea3f70011665dfc9724cb"
+libc = "glibc"
+os = "linux"
+
+    [[LASzip.download]]
+    sha256 = "1f2545c09fe4cd938f64b3d3f6b77feb482cb7c129af8f804e263e6394ee3835"
+    url = "https://github.com/JuliaBinaryWrappers/LASzip_jll.jl/releases/download/LASzip-v3.4.3+0/LASzip.v3.4.3.armv7l-linux-gnueabihf.tar.gz"
